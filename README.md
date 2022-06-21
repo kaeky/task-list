@@ -28,6 +28,8 @@
 
 ## Installation
 
+database: Mysql
+databasename: tasklist
 ```bash
 $ npm install
 ```
