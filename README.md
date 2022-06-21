@@ -28,10 +28,12 @@
 
 ## Installation
 
-database: Mysql
-databasename: tasklist
 ```bash
 $ npm install
+# Base de datos
+$ MySQL
+# nombre de la bd
+$ tasklist
 ```
 
 ## Running the app
@@ -39,6 +41,9 @@ $ npm install
 ```bash
 # development
 $ npm run start
+
+# Para realizar las pruebas se puede por POOSTMAN O en el siguiente enlace
+$ localhost:3000/documentation
 
 # watch mode
 $ npm run start:dev
